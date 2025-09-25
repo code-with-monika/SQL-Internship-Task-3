@@ -7,8 +7,13 @@ The main goal of this task is to practice SQL SELECT queries to extract, filter,
 **Concepts Covered**
 
 **SELECT** – retrieving all or specific columns
+
 **WHERE**– filtering records based on conditions
+
 **AND / OR**– combining multiple conditions
+
 **LIKE '%value%'** – pattern matching
+
 **BETWEEN** – filtering within ranges
+
 **ORDER BY** – sorting results (ascending & descending)
