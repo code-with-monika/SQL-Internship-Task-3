@@ -17,3 +17,6 @@ The main goal of this task is to practice SQL SELECT queries to extract, filter,
 **BETWEEN** – filtering within ranges
 
 **ORDER BY** – sorting results (ascending & descending)
+
+**Database Link:**
+http://localhost/phpmyadmin/index.php?route=/sql&pos=0&db=librarymanagement&table=employee
